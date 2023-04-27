@@ -1,0 +1,23 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "\"Babel project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliaZin/BabelProject.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "Yulia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliaZin/BabelProject/issues"
+  },
+  "homepage": "https://github.com/YuliaZin/BabelProject#readme"
+}
